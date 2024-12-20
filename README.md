@@ -14,7 +14,7 @@ This repository contains the Weather website created by A. Habeeb. The website p
 4. **Photos:** Collection of weather-related photos.
 5. **Contact:** Contact information for reaching out.
 
-
+To get API link : (https://www.weatherapi.com/)
 
 ## Usage
 
