@@ -6,6 +6,13 @@ The Weather website can be accessed at: [Weather Website](https://ahmedhabeeb20.
 
 This repository contains the Weather website created by A. Habeeb. The website provides information about the weather, news, live cameras, photos, and contact details.
 
+
+"This website forecasts the weather for today and the next two days."
+
+
+
+
+
 ## Website Sections
 
 1. **Home:** Homepage providing general information about the weather.
